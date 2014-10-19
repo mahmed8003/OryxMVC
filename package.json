@@ -1,0 +1,33 @@
+{
+    "name": "Oryx",
+    "version": "1.0.0",
+    "title": "Oryx Framework",
+    "author": "Muhammad Ahmed",
+    "description": "Starting of new era",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "engines": {
+        "node": ">= 0.10.0"
+    },
+    "dependencies": {
+        "express": "4.8.5",
+        "morgan": "1.2.3",
+        "body-parser": "1.6.5",
+        "express-session": "1.7.6",
+        "compression": "1.0.11",
+        "method-override": "2.1.3",
+        "cookie-parser": "1.3.2",
+        "helmet": "0.4.0",
+        "connect-flash": "0.1.1",
+        "ejs": "1.0.0",
+        "glob": "4.0.6",
+        "mongoose": "3.8.15",
+        "mongoose-query-paginate": "1.0.1",
+        "sequelize": "1.7.9",
+        "request": "2.40.0",
+        "schemajs": "0.1.10",
+        "socket.io": "1.0.6"
+    }
+}
